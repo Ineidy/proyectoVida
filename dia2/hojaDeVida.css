@@ -1,0 +1,15 @@
+body{
+    font-family: "Mallanna", sans-serif;
+    background-color:antiquewhite;
+}
+legend{
+    background-color: rgb(241, 201, 152);
+    border-radius: 20px;
+    font-weight: bold;
+}
+div{
+    background-color: white;
+    border-color: black;
+    padding: 12px;
+    width: 60%;
+}
