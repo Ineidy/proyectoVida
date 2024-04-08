@@ -1,6 +1,10 @@
 body{
-    font-family: "Mallanna", sans-serif;
+    max-width: 1900px;
+    font-family: Arial, Helvetica, sans-serif;
     background-color:antiquewhite;
+    margin: 20px auto;
+    padding: 20px;
+    box-sizing: border-box;
 }
 legend{
     background-color: rgb(241, 201, 152);
